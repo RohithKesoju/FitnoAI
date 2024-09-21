@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+numpy
+mediapipe
+tkinter
+imageio
+openai
+pillow
+customtkinter
